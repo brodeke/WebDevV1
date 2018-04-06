@@ -1,0 +1,73 @@
+/* style sheet*/
+body{
+    background-color: darkslategrey;
+    color: white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.month{
+    padding: 50px;
+    text-align: center;
+    font-size: large;
+}
+
+.mon{
+    margin: 0;
+    padding: 50px;
+    text-align: center;
+}
+
+.tue{
+    margin: 0;
+    padding: 50px;
+    text-align: center;
+}
+
+.wed{
+    margin: 0;
+    padding: 50px;
+    text-align: center;
+}
+
+.thu{
+    margin: 0;
+    padding: 50px;
+    text-align: center;
+}
+
+.fri{
+    margin: 0;
+    padding: 50px;
+    text-align: center;
+}
+
+.sat{
+    margin: 0;
+    padding: 50px;
+    text-align: center;
+}
+
+.sun{
+    margin: 0;
+    padding: 50px;
+    text-align: center;
+}
+
+table{
+    border: white;
+    padding: 100px;
+    text-align: center;
+}
+
+.Description{
+    text-align: left;
+    color: white;
+    text-decoration: underline;
+    font-weight: bolder;
+    text-shadow: 4px 4px 8px black;
+}
+
+.paragraph{
+    text-align: left;
+    color: white;
+}
