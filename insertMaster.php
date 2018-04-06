@@ -1,3 +1,7 @@
+//THIS IS THE MAIN INSERT CODE PAGE - FOR ALL TESTING, PLEASE USE THIS DOC
+//THIS CODE INSERTS NEW DATA INTO THE EVENT DATABASE
+
+
 <?php
 
 	$con = mysqli_connect('localhost','root','');
