@@ -2,4 +2,10 @@
 
 THIS IS OUR PROJECT READ ME:
 
-update this as we add to the project
+Most Important Files:
+
+ - Login.html
+ - calendarDisplay.php
+ - insert.php
+ - pycalcss.css
+ - mastercal.html
