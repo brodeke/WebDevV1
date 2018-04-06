@@ -1,3 +1,6 @@
+//THIS IS THE MAIN DISPLAY CODE - FOR ALL TESTING, PLEASE USE THIS DOC
+//THIS CODE DISPLAYS THE CALENDAR IN A DYNAMIC FASHION
+
 <?php
 
 echo "<link rel='stylesheet' type='text/css' href='pycalcss.css'>";
