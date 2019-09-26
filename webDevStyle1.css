@@ -1,0 +1,12 @@
+/* style sheet*/
+
+body { font-family: "Palatino" }
+body { color: white }
+body { background-color: dimgray}
+a.nodec { text-decoration: none }
+a:hover { text-decoration: underline }
+li, em { font-weight: bold }
+h1, em { text-decoration: underline }
+h1, am { text-align: center }
+ul { margin-left: 20px }
+ul ul { font-size: medium}
